@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1
+
 import math
 array1 = [1,5,9]
 array2 = [2,3,6,7]
