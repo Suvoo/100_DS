@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/10471201e923a0b88a0c1482e6c7e8cc6fdfe93a/1
+
 height = [2, 1, 5, 4, 6, 5]
 n = len(height)
 
