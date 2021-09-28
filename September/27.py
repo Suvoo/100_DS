@@ -1,5 +1,8 @@
 # Problem : https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1#
 
+
+# Check slow-fast ptr method, hare-forest method,
+
 class Solution:
     #  Should return data of middle node. If linked list is empty, then  -1
     def findMid(self, head):
