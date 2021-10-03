@@ -13,3 +13,4 @@
 
 ### औकात - October
 * 01 October [BST Inorder](https://practice.geeksforgeeks.org/problems/check-for-bst/1#)
+* 02 October [K Queries - Priority Queue](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1)
