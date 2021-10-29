@@ -16,4 +16,5 @@
 * 02 October [K Queries - Priority Queue](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1)
 * 04 October [Kadanes](https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1)```solved``` it
 * 09 October[MatrixPattern](https://leetcode.com/problems/spiral-matrix)
-* 27 October - Math
+* 27 October - Math ```solved``` it
+* 29 October - F Math! [Mathh](https://practice.geeksforgeeks.org/problems/620fb6456d6515faddd77050dfbf2821d7a94b8a/1) ```solved``` it
