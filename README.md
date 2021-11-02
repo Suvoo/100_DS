@@ -18,3 +18,6 @@
 * 09 October[MatrixPattern](https://leetcode.com/problems/spiral-matrix)
 * 27 October - Math ```solved``` it
 * 29 October - F Math! [Mathh](https://practice.geeksforgeeks.org/problems/620fb6456d6515faddd77050dfbf2821d7a94b8a/1) ```solved``` it
+
+### औकात - November
+* 02 November [Sliding window](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) NSE_Left & Nse_Right imp in other questions
