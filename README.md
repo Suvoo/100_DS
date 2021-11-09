@@ -25,3 +25,5 @@
 * 06 November [Bit Man](https://practice.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/1#) n << x = n*2^x , n >> x = n/2^x
 
 * 08 November [BT sum(easy)](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1#) revise trees
+
+* 09 November [Hash-DefaultDicts](https://practice.geeksforgeeks.org/problems/974612adac31d8e35448df5879342690f841c532/1#) Learnt defaultdict and features
