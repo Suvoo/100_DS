@@ -27,3 +27,5 @@
 * 08 November [BT sum(easy)](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1#) revise trees
 
 * 09 November [Hash-DefaultDicts](https://practice.geeksforgeeks.org/problems/974612adac31d8e35448df5879342690f841c532/1#) Learnt defaultdict and features
+
+* 10 November [Palindrome LinkedList](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1#) tough to do in o(1) space
