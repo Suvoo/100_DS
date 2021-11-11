@@ -23,9 +23,7 @@
 * 02 November [Sliding window](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) NSE_Left & Nse_Right imp in other questions
 * 04 November [K-Sum](https://practice.geeksforgeeks.org/problems/four-elements2452/1) Solved 2sum,2sum2,3sum and 4sum on leetcode 
 * 06 November [Bit Man](https://practice.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/1#) n << x = n*2^x , n >> x = n/2^x
-
 * 08 November [BT sum(easy)](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1#) revise trees
-
 * 09 November [Hash-DefaultDicts](https://practice.geeksforgeeks.org/problems/974612adac31d8e35448df5879342690f841c532/1#) Learnt defaultdict and features
-
 * 10 November [Palindrome LinkedList](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1#) tough to do in o(1) space
+* 11 November [Sliding Window](https://practice.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) tough(8)
