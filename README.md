@@ -27,3 +27,4 @@
 * 09 November [Hash-DefaultDicts](https://practice.geeksforgeeks.org/problems/974612adac31d8e35448df5879342690f841c532/1#) Learnt defaultdict and features
 * 10 November [Palindrome LinkedList](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1#) tough to do in o(1) space
 * 11 November [Sliding Window](https://practice.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) tough(8)
+* 12 November [DP on Graphs](https://practice.geeksforgeeks.org/problems/possible-paths3834/1) rula dia
