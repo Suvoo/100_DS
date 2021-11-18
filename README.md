@@ -28,5 +28,6 @@
 * 10 November [Palindrome LinkedList](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1#) tough to do in o(1) space
 * 11 November [Sliding Window](https://practice.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) tough(8)
 * 12 November [DP on Graphs](https://practice.geeksforgeeks.org/problems/possible-paths3834/1) rula dia
-* 13/14 - Brackets
-* Mirror binary tree(bfs n dfs)[bst](https://practice.geeksforgeeks.org/problems/mirror-tree/1#)
+* 13/14 November - Brackets
+* 15 November - Mirror binary tree(bfs n dfs)[bst](https://practice.geeksforgeeks.org/problems/mirror-tree/1#)
+* 18 November - [Easy still](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1#)
