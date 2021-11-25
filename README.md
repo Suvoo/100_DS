@@ -31,3 +31,5 @@
 * 13/14 November - Brackets
 * 15 November - Mirror binary tree(bfs n dfs)[bst](https://practice.geeksforgeeks.org/problems/mirror-tree/1#)
 * 18 November - [Easy still](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1#)
+
+* 26 November - [Math](https://practice.geeksforgeeks.org/problems/money-distributions5924/1#)
