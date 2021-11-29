@@ -33,3 +33,5 @@
 * 18 November - [Easy still](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1#)
 
 * 26 November - [Math](https://practice.geeksforgeeks.org/problems/money-distributions5924/1#)
+* 27 November -[Ideal binary search](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1#)
+* 29 November - [NSERight](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1)
